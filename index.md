@@ -1,3 +1,4 @@
+[LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_ID)|[Email](mailto:Kathanpatel1899@gmail.com)|[Download Resume](LINK_TO_PDF)
 ---
 ## 👋 About Me
 I am a Data Integration Analyst (Engineering Focused) with 3+ years of experience in FinTech (Flexiti, Questrade), bridging the gap between Data Engineering and System Reliability.
