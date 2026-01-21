@@ -32,9 +32,9 @@ I architected a **Databricks Lakehouse** solution to unify these sources into a 
 ![Incident Response Workflow](incident-workflow.png)
 
 **The Result:**
-* Reduced data processing time by **30%**.
-* Eliminated manual file transfers completely.
-* Achieved **99.9% uptime** for critical financial reporting.
+> ⚡ **Reduced processing time by 30%**
+> 📉 **Eliminated manual file transfers completely**
+> 🟢 **Achieved 99.9% uptime for critical financial reporting**
 
 ---
 
