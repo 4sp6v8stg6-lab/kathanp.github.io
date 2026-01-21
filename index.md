@@ -27,17 +27,13 @@ I architected a **Databricks Lakehouse** solution to unify these sources into a 
 
 **The Architecture:**
 ![Financial Data Lake Architecture](architecture-diagram.png)
-
 **The Workflow:**
 ![Incident Response Workflow](incident-workflow.png)
-
 **The Result:**
 > ⚡ **Reduced processing time by 30%**
 > 📉 **Eliminated manual file transfers completely**
 > 🟢 **Achieved 99.9% uptime for critical financial reporting**
-
 ---
-
 ### 2. Automated Incident Response System
 **The Problem:**
 SQL timeouts and payment gateway errors were creating "operational noise," requiring manual triage that distracted the engineering team.
@@ -49,8 +45,8 @@ Built an automated monitoring framework using **Python** and **CloudWatch/Datado
 * Automatic ticket creation in JIRA with relevant stack traces attached.
 
 **The Result:**
-* Reduced Mean Time to Detection (MTTD) from hours to minutes.
-* Allowed the team to focus on root cause fixes rather than triage.
+> **Reduced Mean Time to Detection (MTTD) from hours to minutes.**
+> **Allowed the team to focus on root cause fixes rather than triage.**
 
 ---
 
