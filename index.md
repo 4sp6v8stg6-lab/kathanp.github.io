@@ -26,7 +26,10 @@ I architected a **Databricks Lakehouse** solution to unify these sources into a 
 * **Quality:** Automated "Great Expectations" checks run pre-ingestion to reject bad data.
 
 **The Architecture:**
-*(Imagine a diagram here: API Sources -> Python Ingestion -> S3 Delta Lake -> PowerBI Dashboard)*
+![Financial Data Lake Architecture](architecture-diagram.png)
+
+**The Workflow:**
+![Incident Response Workflow](incident-workflow.png)
 
 **The Result:**
 * Reduced data processing time by **30%**.
