@@ -1,11 +1,10 @@
-# Kathan Patel
-**Senior Data Operations Engineer | Databricks Certified**
+## Data Integration Analyst (Engineering Focused)| Databricks Certified
 [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_ID) | [Email](mailto:Kathanpatel1899@gmail.com) | [Download Resume](LINK_TO_PDF)
 
 ---
 
 ## 👋 About Me
-I am a **Data Operations Engineer** with 3+ years of experience in FinTech (Flexiti, Questrade), bridging the gap between Data Engineering and System Reliability.
+I am a Data Integration Analyst (Engineering Focused) with 3+ years of experience in FinTech (Flexiti, Questrade), bridging the gap between Data Engineering and System Reliability.
 
 I don't just build pipelines; I ensure they stay up. I specialize in the **Modern Data Stack** (Databricks, Python, SQL) and have a strong focus on **Incident Response** and **Automated Data Quality**.
 
