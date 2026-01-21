@@ -1,6 +1,3 @@
-## Data Integration Analyst (Engineering Focused)| Databricks Certified
-[LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_ID) | [Email](mailto:Kathanpatel1899@gmail.com) | [Download Resume](LINK_TO_PDF)
-
 ---
 
 ## 👋 About Me
